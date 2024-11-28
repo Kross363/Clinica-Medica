@@ -18,6 +18,7 @@ Este proyecto es una API REST desarrollada en **Java 17** con **Spring Boot 3.3.
 - **JWT (java-jwt 4.4.0)**: Manejo de autenticación y autorización.
 - **Springdoc OpenAPI (2.5.0)**: Para documentar la API.
 - **Maven**: Para la gestión de dependencias.
+- **Insomnia**: Para el uso de las request hechas con l.
 
 ## Funcionalidades principales
 
